@@ -1,0 +1,11 @@
+{
+  "name": "redis-streams",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "redis": "^4.1.0"
+  }
+}
